@@ -1,4 +1,4 @@
 chcp 65001
 git add --all
-git commit -m "실습 #1(근 찾기) 예시"
+git commit -m "diffFun 노트북 추가"
 git push -u origin master
