@@ -1,4 +1,4 @@
 chcp 65001
 git add --all
-git commit -m "MachineEpsilon 노트북 추가"
+git commit -m "실습 #3(미분 오차) 계산 예시"
 git push -u origin master
